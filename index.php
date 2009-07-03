@@ -26,7 +26,7 @@ $_SESSION['user']['user_id']    //ID des eingeloggten Users
 /**/   include ('includings/class.stundenplan.php');    /**/
 /**/   include ('views/test_schueler.php');             /**/
 /**/   include ('views/test_klasse.php');               /**/
-/**/                                                    /**/
+/**/   include ('views/test_test.php');                 /**/
 /**********************************************************/
 
 
